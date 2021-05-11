@@ -9,7 +9,7 @@ public class Main {
 		Person p=new Person();
 		p.setName("baji");
 		System.out.println("hai hhhh"+p.getName());
-
+System.out.println("-----------------------------");
 	}
 
 }
