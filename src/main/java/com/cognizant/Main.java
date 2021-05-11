@@ -8,7 +8,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Person p=new Person();
 		p.setName("baji");
-		System.out.println("hai "+p.getName());
+		System.out.println("hai hhhh"+p.getName());
 
 	}
 
